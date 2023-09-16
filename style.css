@@ -1,0 +1,9 @@
+body{font-family: Open Sans, serif ; background: linear-gradient(90deg, #173152 0%, #B75252 100%); color: aquamarine;}
+img{height: 300px;}
+.sidebar{color: aquamarine;background: linear-gradient(270deg, #173152 0%, #B75252 100%);}
+.card{background: linear-gradient(270deg, #173152 0%, #B75252 100%);}
+.slide-text, .footer-text{color: aquamarine; margin: auto auto;}
+footer{ background: linear-gradient(270deg, #173152 0%, #B75252 100%);}
+.media-links{display: flex;justify-content: center;align-items: center}
+@import url('https://fonts.googleapis.com/css?family=Open Sans&display=swap')
+            
